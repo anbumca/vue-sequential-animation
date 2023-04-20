@@ -1,0 +1,26 @@
+{
+  "name": "vue-sequential-animation",
+  "version": "1.1.2",
+  "description": "A vuejs plugin for creating sequential animation animations of a group of elements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anbumca/vue-sequential-animation.git"
+  },
+  "keywords": [
+    "plugin",
+    "vue",
+    "animations",
+    "animation",
+    "sequential"
+  ],
+  "author": "David Alvarez @deivthings",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anbumca/vue-sequential-animation/issues"
+  },
+  "homepage": "https://github.com/anbumca/vue-sequential-animation#readme"
+}
